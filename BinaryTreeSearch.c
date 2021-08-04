@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /* Binary tree search */
 int BTSearch(int array[], int len, int target)
 {
